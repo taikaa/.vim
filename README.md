@@ -37,3 +37,4 @@ update                         Updates pathogen and all plugins.
 * [github.com/plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown.git)
 * [github.com/hashivim/vim-terraform](https://github.com/hashivim/vim-terraform.git)
 * [github.com/stephpy/vim-yaml](https://github.com/stephpy/vim-yaml.git)
+* [github.com/rodjek/vim-puppet](https://github.com/rodjek/vim-puppet.git)
